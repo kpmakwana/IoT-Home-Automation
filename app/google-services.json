@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "601973440873",
+    "firebase_url": "https://ioteam10-31d89.firebaseio.com",
+    "project_id": "ioteam10-31d89",
+    "storage_bucket": "ioteam10-31d89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601973440873:android:fb4ec26ea852ebb0",
+        "android_client_info": {
+          "package_name": "com.example.dhaval.iothomeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601973440873-vak83tebhb4k2dqhmc5ths0ggqm7g5gk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dhaval.iothomeapp",
+            "certificate_hash": "85a6b7407173fcc0a8d8ee6fc201257348721766"
+          }
+        },
+        {
+          "client_id": "601973440873-bjgeighun0v7lpfu7tvb8g2gccj43lej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALNBtyCy2eNo0AJT4wGKGsY4SZTohmx9Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601973440873-bjgeighun0v7lpfu7tvb8g2gccj43lej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
